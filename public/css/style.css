@@ -2,7 +2,11 @@
   Styles from this codepen:
   https://codepen.io/official_naveen/pen/rgknI
 */
-
+header{
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
 body {
     width: 800px;
     margin: 0 auto;
